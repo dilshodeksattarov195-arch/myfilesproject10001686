@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenperify",
+        "uuid": 1766928,
+        "checksum": "r7veaw"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
